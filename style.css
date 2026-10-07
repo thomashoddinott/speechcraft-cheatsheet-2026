@@ -1,0 +1,6 @@
+/* Overrides on top of Pico (classless). */
+
+body > main,
+body > footer {
+  max-width: 42rem;
+}
