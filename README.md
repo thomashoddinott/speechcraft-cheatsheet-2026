@@ -43,3 +43,9 @@ To do: Try to figure out my core prompts.
 - Word for word: sounds like playing a tape in your head. Lose your place and you have to rewind.
 - What works for me: compress it. Three keyword bullets per paragraph, fifteen in total, on one A5 sheet. Rehearse from that, a couple of times a day.
 - When I decompress it, it comes out slightly different every time. That's the point: room to read the room.
+
+**How do I use AI?** *(keep this one thin)*
+- Use it to scaffold and structure, to edit, to pick better words, to find redundancies. But 90% of the speech should be written by you: your voice, you typing.
+- How I use it: one session as an orchestrator. I feed it voice memos, or just talk to it, to get my ideas straightened out.
+- It gets me my five paragraphs, then four to six bullets for each. Then I write it myself. By that stage I find writing in my own voice fairly easy.
+- It also helps me make the flashcard summary I memorise from.
