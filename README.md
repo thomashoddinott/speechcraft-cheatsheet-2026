@@ -11,7 +11,7 @@ To do: Try to figure out my core prompts.
 
 ## FAQ ideas
 
-**What do I write about?**
+**What do I write about?** *(mostly in point two of the speech now: keep here only what didn't fit)*
 - Writing is thinking. How well you write tracks how well you think and solve problems.
 - For me writing is problem solving: figuring something out for myself, reconciling something. Then working out how best to get it across to an audience.
 - Pick something you're interested in and have a hot take on. You don't need the answer: the speech is the figuring out.
