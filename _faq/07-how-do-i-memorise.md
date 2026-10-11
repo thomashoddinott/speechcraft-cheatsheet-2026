@@ -2,7 +2,11 @@
 title: "How do I memorise a speech?"
 ---
 
-Reading from a script made me look unprepared, and learning it word for word made me sound like a tape playing in my head. What works for me is compression: three keyword bullets per paragraph, fifteen in total, on one A5 card. I rehearse from the card a couple of times a day, and the speech comes out slightly different every time, which leaves room to read the room.
+If you're nervous, read from a script for your first speech. For the Ice Breaker you're actually allowed to use a full script.
+
+When you want to stop using one, here's what has worked for me. I used to memorise my speeches verbatim, like a robot, with the first few words of each sentence as my notes. It wasn't very effective.
+
+Now I'm doing something different, and so far it's working 🤞. I use the prompt below to compress the speech into its core ideas, so I remember ideas instead of playing back a tape recorder, and I can improvise each part. If I lose my place completely, a glance at my notes lets me improvise my way back without rewinding the tape. It's helped cut the "robotic" comments I used to get on my speeches.
 
 The prompt I use once the speech is finished:
 
