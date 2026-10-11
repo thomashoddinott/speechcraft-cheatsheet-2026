@@ -6,4 +6,4 @@ When I edit, I mostly cut. I'll lose almost half of a first draft, checking that
 
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. — Antoine de Saint-Exupéry
 
-Andy Barbiero from our club shared this video, which fits here: [Why native English speakers can't speak English!](https://www.youtube.com/watch?v=Dt1VU_oyjcw)
+Find out more in this video: [Why native English speakers can't speak English!](https://www.youtube.com/watch?v=Dt1VU_oyjcw) Thanks to Andy Barbiero from our club for sharing it with me originally.
