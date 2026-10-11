@@ -25,3 +25,5 @@ li::marker { color: var(--accent); }
 a { color: var(--accent); }
 blockquote { margin: 0 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); color: var(--muted); font-style: italic; }
 pre { margin: 0 0 1rem; padding: .75rem 1rem; background: #f0ece2; border-radius: 4px; white-space: pre-wrap; overflow-wrap: anywhere; font: .85rem/1.5 ui-monospace, Menlo, monospace; }
+details details, details details:last-of-type { border: 0; }
+details details > summary { font-size: 1rem; padding: .5rem 0; }
