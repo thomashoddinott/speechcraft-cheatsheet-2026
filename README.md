@@ -11,6 +11,8 @@ To do: Try to figure out my core prompts.
 
 ## FAQ ideas
 
+*Max 9 points, 2–4 sentences each.*
+
 **What do I write about?** *(mostly in point two of the speech now: keep here only what didn't fit)*
 - Writing is thinking. How well you write tracks how well you think and solve problems.
 - For me writing is problem solving: figuring something out for myself, reconciling something. Then working out how best to get it across to an audience.
@@ -49,3 +51,7 @@ To do: Try to figure out my core prompts.
 - How I use it: one session as an orchestrator. I feed it voice memos, or just talk to it, to get my ideas straightened out.
 - It gets me my five paragraphs, then four to six bullets for each. Then I write it myself. By that stage I find writing in my own voice fairly easy.
 - It also helps me make the flashcard summary I memorise from.
+
+**Credits and further reading**
+- Richard Dowis, *The Lost Art of the Great Speech: How to Write One — How to Deliver It* (1999). The long book I read for my first speech?
+- Andy (Toastmasters): his list of ~10 things to put in a speech, and the one-sentence summary idea. TODO: find his YouTube clip and link it.
