@@ -2,4 +2,4 @@
 title: "What about delivery?"
 ---
 
-Moving around the stage, using my voice, eye contact: I'm still learning all of it, so I'm not the one to teach it. What I've noticed is that it mostly sorts itself out with practice and feedback. Get up on stage as often as you can, and listen to the evaluations.
+When it comes to delivery, I'm mostly of the opinion that the non-verbals, like stage movement and eye contact, and the verbal side, like voice modulation, all come with confidence and time on stage. In any case, I'm not an expert. I've just noticed in my own experience that as I've become more confident and found my own style, these things seem to be sorting themselves out naturally.
