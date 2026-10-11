@@ -22,3 +22,10 @@ To do: Try to figure out my core prompts.
 - Stephen King quote: the muse turns up when you sit down at the same time every day (find the exact wording).
 - Motivation is a whim, discipline is the skill. You can go years without feeling motivated and still be productive.
 - Commit to a cadence. E.g. three speeches a year = one every three months. Block out one or two weeks per speech, 20–30 min a day writing and memorising. *(The speech says 10–20 min/day: keep them consistent.)*
+
+**Too many "you"s?**
+- Lots of "you should / you need to / you shouldn't" usually means I'm lecturing like a parent, not persuading. That convinces nobody.
+- It's the lazy way to get ideas down, as if perfect transmission of information meant people would just do what I say.
+- Save the second person for the call to action.
+- When I catch a "you", I flip it into a story: how am I doing this now? Give an example from my life.
+- A list of rules only works if each one comes with the how and a personal example. Maybe this is just my style.
