@@ -2,4 +2,12 @@
 title: "How do I open a speech?"
 ---
 
-My default is an anecdote: a short story from my life that sets up the message. Other ways in are an honest admission that makes the room want to know what happened next, or a question to the audience (with the answer ready in case nobody bites). Whatever I pick has to earn the next ten seconds of attention.
+I'll point you to a good book on speech writing that I read when I was starting out: *The Lost Art of the Great Speech: How to Write One — How to Deliver It* by Richard Dowis. It sorts openings into five types:
+
+- **Novelty:** a prop or a stunt that grabs the room.
+- **Dramatic:** suspense, or a warning that something big is coming.
+- **Question:** rhetorical, or a real one you then answer.
+- **Humorous:** an icebreaker, if it's in good taste and the timing is right.
+- **Reference:** a quote, an event or a fact used as a launching pad. By far the most common.
+
+The book covers far more advanced topics than I'm qualified to talk about.
