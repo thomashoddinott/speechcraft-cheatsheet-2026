@@ -15,7 +15,7 @@ Here's my finished speech. For each paragraph, give me one line on the logical m
 ```
 
 <details markdown="1">
-<summary>Example: my card from my speech on 21 September 2026</summary>
+<summary>Example: my notes (one A5 sheet) from my speech on 21 September 2026</summary>
 
 ```
 1 · Anecdote — I'm disciplined now. Took one week off.
