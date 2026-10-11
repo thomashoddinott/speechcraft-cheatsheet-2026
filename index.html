@@ -6,84 +6,27 @@
   <title>Speechcraft cheat sheet</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter+Tight:wght@700&family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Space+Grotesk:wght@600&display=swap">
-  <link id="pico" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
-  <link id="theme" rel="stylesheet" href="style.css">
-  <style>
-    /* Temporary style picker: delete with the #style-demo bar and script. */
-    body { padding-bottom: 4.5rem; }
-    #style-demo { width: auto; margin: 0; position: fixed; left: 50%; bottom: 1rem; transform: translateX(-50%); z-index: 1000; display: flex; align-items: center; gap: .25rem; padding: .35rem .5rem; background: #111; color: #fff; border: 1px solid rgba(255,255,255,.2); border-radius: 999px; font: 500 13px/1 -apple-system, system-ui, sans-serif; box-shadow: 0 4px 16px rgba(0,0,0,.25); }
-    #style-demo span { padding: 0 .4rem; opacity: .7; }
-    #style-demo button { all: unset; cursor: pointer; width: 28px; height: 28px; display: grid; place-items: center; border-radius: 999px; }
-    #style-demo button[aria-pressed="true"] { background: #fff; color: #111; }
-    #style-demo button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
-  </style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <main>
     <h1>Speechcraft cheat sheet</h1>
 
-    <details open>
-      <summary>A. Lorem ipsum dolor sit amet, consectetur adipiscing?</summary>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-      <ul>
-        <li>Duis aute irure dolor in reprehenderit in voluptate.</li>
-        <li>Excepteur sint occaecat cupidatat non proident.</li>
-        <li>Sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
-      </ul>
-      <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+    <details>
+      <summary>A</summary>
+      <p>A</p>
     </details>
 
     <details>
-      <summary>B. Sed ut perspiciatis unde omnis iste natus?</summary>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-      <ul>
-        <li>Neque porro quisquam est, qui dolorem ipsum.</li>
-        <li>Quia dolor sit amet, consectetur, adipisci velit.</li>
-      </ul>
+      <summary>B</summary>
+      <p>B</p>
     </details>
 
     <details>
-      <summary>C. At vero eos et accusamus?</summary>
-      <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti, with <a href="#">a link</a> in it.</p>
-      <ul>
-        <li>Nam libero tempore, cum soluta nobis est eligendi.</li>
-        <li>Temporibus autem quibusdam et aut officiis debitis.</li>
-        <li>Itaque earum rerum hic tenetur a sapiente delectus.</li>
-      </ul>
+      <summary>C</summary>
+      <p>C</p>
     </details>
   </main>
-
-  <div id="style-demo" role="toolbar" aria-label="Style demo">
-    <span>Style</span>
-    <button type="button" data-theme="1">1</button>
-    <button type="button" data-theme="2">2</button>
-    <button type="button" data-theme="3">3</button>
-    <button type="button" data-theme="4">4</button>
-    <button type="button" data-theme="5">5</button>
-  </div>
-
-  <script>
-    // Temporary style picker: delete with the #style-demo bar, its <style> and themes/.
-    (function () {
-      var pico = document.getElementById('pico');
-      var theme = document.getElementById('theme');
-      var files = { 1: 'style.css', 2: 'themes/2.css', 3: 'themes/3.css', 4: 'themes/4.css', 5: 'themes/5.css' };
-      function set(n) {
-        if (!files[n]) n = 1;
-        pico.disabled = n !== 1;
-        theme.href = files[n];
-        document.querySelectorAll('#style-demo button').forEach(function (b) {
-          b.setAttribute('aria-pressed', String(Number(b.dataset.theme) === n));
-        });
-        history.replaceState(null, '', '#style-' + n);
-      }
-      document.getElementById('style-demo').addEventListener('click', function (e) {
-        var n = Number(e.target.dataset && e.target.dataset.theme);
-        if (n) set(n);
-      });
-      set(Number((location.hash.match(/style-(\d)/) || [])[1]) || 1);
-    })();
-  </script>
 </body>
 </html>
