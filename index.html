@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -12,21 +14,12 @@
 <body>
   <main>
     <h1>Speechcraft cheat sheet</h1>
-
+{% for item in site.faq %}
     <details>
-      <summary>A</summary>
-      <p>A</p>
+      <summary>{{ item.title }}</summary>
+      {{ item.content | markdownify }}
     </details>
-
-    <details>
-      <summary>B</summary>
-      <p>B</p>
-    </details>
-
-    <details>
-      <summary>C</summary>
-      <p>C</p>
-    </details>
+{% endfor %}
   </main>
 </body>
 </html>

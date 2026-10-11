@@ -23,3 +23,4 @@ ul { margin: 0 0 1rem; padding-left: 1.2rem; }
 li { margin: .3rem 0; }
 li::marker { color: var(--accent); }
 a { color: var(--accent); }
+blockquote { margin: 0 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); color: var(--muted); font-style: italic; }

@@ -1,0 +1,6 @@
+collections:
+  faq:
+    output: false
+
+exclude:
+  - README.md
