@@ -11,7 +11,7 @@ Now I'm doing something different, and so far it's working 🤞. I use the promp
 The prompt I use once the speech is finished:
 
 ```
-Here's my finished speech. For each paragraph, give me one line on the logical move it makes, then three 6-12 word bullets: memory triggers, not summaries. I'll rebuild sentences live. If a paragraph won't fit three, tell me.
+Here's my finished speech. For each paragraph: a short name, then three 6–12 word bullets. A bullet can hold several ideas or transitions. Capture ideas to navigate by, not sentence openings. Keep the final line verbatim. Won't fit? Tell me.
 ```
 
 <details markdown="1">
