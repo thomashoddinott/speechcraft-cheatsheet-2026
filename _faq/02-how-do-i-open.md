@@ -2,6 +2,8 @@
 title: "How do I open a speech?"
 ---
 
+*I lean on personal anecdotes (which I guess comes under reference in the types that follow). I'm also learning to incorporate more questions into my openers to create the hook early.*
+
 A good book on speech writing that I read when I was starting out: *The Lost Art of the Great Speech: How to Write One — How to Deliver It* by Richard Dowis. It sorts openings into five types:
 
 - **Novelty:** a prop or a stunt that grabs the room.
@@ -11,3 +13,4 @@ A good book on speech writing that I read when I was starting out: *The Lost Art
 - **Reference:** a quote, an event or a fact used as a launching pad. By far the most common.
 
 The book also covers far more advanced topics than I'm qualified to talk about.
+
