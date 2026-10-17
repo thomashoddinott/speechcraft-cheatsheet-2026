@@ -4,11 +4,13 @@ title: "How do I memorise a speech?"
 
 If you're nervous, read from a script for your first speech. For the Ice Breaker you're actually allowed to use a full script.
 
-When you want to stop using one, here's what has worked for me. I used to memorise my speeches verbatim, like a robot, with the first few words of each sentence as my notes. It wasn't very effective.
+I used to memorise my speeches verbatim, like a robot, with the first few words of each sentence as my notes. It wasn't very effective.
 
-Now I'm doing something different, and so far it's working 🤞. I use the prompt below to compress the speech into its core ideas, so I remember ideas instead of playing back a tape recorder, and I can improvise each part. If I lose my place completely, a glance at my notes lets me improvise my way back without rewinding the tape. It's helped cut the "robotic" comments I used to get on my speeches.
+Now I'm doing something different, and so far it's working 🤞. I use the prompt below to compress the speech into its core ideas, so I remember ideas instead of playing back a tape recorder, and I can improvise each part. I use these notes when I'm rehearsing my speech and ocassionally glance at my full text to make sure it's alligned.
 
-The prompt I use once the speech is finished:
+Then, during a speech if I lose my place completely, a glance at my notes lets me improvise my way back without rewinding the tape. It's helped cut the "robotic" comments I used to get on my speeches.
+
+The prompt:
 
 ```
 Here's my finished speech. For each paragraph: a short name, then three 6–12 word bullets. A bullet can hold several ideas or transitions. Capture ideas to navigate by, not sentence openings. Keep the final line verbatim. Won't fit? Tell me.
