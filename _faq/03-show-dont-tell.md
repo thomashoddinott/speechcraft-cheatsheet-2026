@@ -6,4 +6,4 @@ People don't like being told what to do (even if it's 100% correct). You have to
 
 When I spot lots of "you should" and "you need to" in my speech, I know I've slipped into lecturing. I flip those lines into the first person: what I'm doing right now, or what I've done in my life. Stories, basically.
 
-A good place to use "you ..." is, for example, in your call to action. ==> After you've told you've persuaded your audience with a good speech and storytelling, then you've earned it.
+A good place to use "you ..." is, for example, in your call to action. ==> After you've persuaded your audience with a good speech and storytelling, then you've earned it.
